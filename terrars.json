@@ -1,0 +1,6 @@
+{
+    "provider": "gitlabhq/gitlab",
+    "version": "17.1.0",
+    "dest": "src/gitlab",
+    "feature_gate": "Cargo.toml"
+}
