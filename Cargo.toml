@@ -1,7 +1,7 @@
 [package]
 name = "terrars-gitlabhq-gitlab"
 edition = "2021"
-version = "0.1.1"
+version = "0.1.0"
 description = "Pre-generated Terrars Gitlab bindings"
 readme = "readme.md"
 license = "ISC"
